@@ -10,5 +10,5 @@ SO THAT I can gauge my progress compared to my peers
 Having issues the Go Back Function and Timer functions.
 
 ## Resolved.
-- resolved issues of having displaying each element in order of events.
+Displaying each element in order of events.
 
