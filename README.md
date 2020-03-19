@@ -7,7 +7,7 @@ SO THAT I can gauge my progress compared to my peers
 
 ##Issues
 
-Having issues the Go Back Function and Timer functions.
+Having issues with the Go Back button and Timer function.
 
 ## Resolved.
 Displaying each element in order of events.
